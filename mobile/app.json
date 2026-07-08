@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Rubik's BLD Trainer",
+    "slug": "rubiks-bld-trainer",
+    "version": "0.1.0",
+    "platforms": [
+      "ios"
+    ],
+    "orientation": "portrait",
+    "scheme": "rubiksbld",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rubikscubebld.trainer",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": []
+  }
+}

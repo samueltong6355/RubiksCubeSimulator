@@ -1,0 +1,11 @@
+*.log
+.DS_Store
+.vscode/
+*.xcuserstate
+*.xcuserdata/
+mobile/.expo/
+mobile/ios/
+mobile/node_modules/
+mobile/npm-debug.log*
+mobile/yarn-debug.log*
+mobile/yarn-error.log*
